@@ -1,5 +1,5 @@
 # melika mansouri
-- [PNU_3991_AR-](https://github.com/melikamansouri/PNU_3991_AR-/)
+- [PNU_3991_AR-](https://github.com/melikamansouri/PNU_3991_AR/)
 - [Resume](https://melikamansouri.github.io/resume-EN/)
 - [SOP](https://melikamansouri.github.io/SOP/)
 - [GitHub](https://github.com/melikamansouri)
