@@ -17,6 +17,9 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/melikamansouri/PNU_3991_AR/blob/main/MM_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/melikamansouri/PNU_3991_AR/blob/main/MM_GeneralSection_CheckList_AR_3991.pdf)
 
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس نظریه زبانها و ماشین ها]()
+
 ------------------
 ## گروه درسی
 
