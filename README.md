@@ -15,7 +15,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/melikamansouri/PNU_3991_AR/blob/main/MM_GeneralSection_CheckList_AR_3991.pdf)
 
 ------------------
 ## گروه درسی
