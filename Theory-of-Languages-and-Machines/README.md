@@ -9,7 +9,7 @@
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
 - [ارائه شفاهی دو مثال با لاتک](https://aparat.com/v/zOMTg)
 
-- [pdf]()
+- [pdf](https://github.com/melikamansouri/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/pdf%20%D8%AF%D9%88%20%D9%85%D8%B3%D8%A6%D9%84%D9%87%20%D8%A7%D8%B2%20%D9%84%D8%A7%D8%AA%DA%A9.jpeg)
 
 # ارائه نوشتاری درس از منابع دیگر با لاتک
 
